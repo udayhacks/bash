@@ -1,0 +1,2 @@
+set > local
+cat local
